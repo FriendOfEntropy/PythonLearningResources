@@ -17,8 +17,8 @@ alt="Getting Started With Python In Visual Studio Code" width="240" height="180"
 
 [Python From Beginner To Expert](https://www.udemy.com/course/python-from-beginner-to-expert-starter-free/ "Python From Beginner To Expert")
 
-[Deep Learning Prerequisites - The NumPy Stack](https://www.udemy.com/course/deep-learning-prerequisites-the-numpy-stack-in-python/ "Deep Learning Prerequisites - The NumPy Stack")
-
 [Introduction To Data Science Using Python](https://www.udemy.com/course/introduction-to-data-science-using-python/ "Introduction To Data Science Using Python")
+
+[Deep Learning Prerequisites - The NumPy Stack](https://www.udemy.com/course/deep-learning-prerequisites-the-numpy-stack-in-python/ "Deep Learning Prerequisites - The NumPy Stack")
 
 [Top 5 Machine Learning Libraries In Python](https://www.udemy.com/course/the-top-5-machine-learning-libraries-in-python/ "Top 5 Machine Learning Libraries In Python")
