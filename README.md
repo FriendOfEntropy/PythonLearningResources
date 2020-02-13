@@ -7,3 +7,7 @@ A collection of links to videos, articles, and free courses for learning Python 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=7EXd4_ttIuw
 " target="_blank"><img src="http://img.youtube.com/vi/7EXd4_ttIuw/0.jpg" 
 alt="Getting Started With Python In Visual Studio Code" width="240" height="180" border="10" /></a>
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=E9U-EBG8jVk
+" target="_blank"><img src="http://img.youtube.com/vi/E9U-EBG8jVk/0.jpg" 
+alt="Getting Started With Python In Visual Studio Code" width="240" height="180" border="10" /></a>
