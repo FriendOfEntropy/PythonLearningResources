@@ -33,6 +33,6 @@ alt="Getting Started With Python In Visual Studio Code" width="240" height="180"
 #### Statistics
 &nbsp;&nbsp;&nbsp;&nbsp;[Introduction to Probability](http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/amsbook.mac.pdf) Introductory textbook that teaches probability and statistics.
 
-&nbsp;&nbsp;&nbsp;&nbsp;O'Reilly Bayesian Statistics Made Simple (https://greenteapress.com/wp/think-bayes/) - Be sure to look for the specific link to Python 3 sample code (the first github link is for legacy Python)
+&nbsp;&nbsp;&nbsp;&nbsp;[O'Reilly Bayesian Statistics Made Simple](https://greenteapress.com/wp/think-bayes/) - Be sure to look for the specific link to Python 3 sample code (the first github link is for legacy Python)
 
 
