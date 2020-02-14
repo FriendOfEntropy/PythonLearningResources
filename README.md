@@ -28,3 +28,11 @@ alt="Getting Started With Python In Visual Studio Code" width="240" height="180"
 
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.youtube.com/watch?feature=player_embedded&v=mkv5mxYu0Wk" target="_blank"><img src="http://img.youtube.com/vi/mkv5mxYu0Wk/0.jpg" alt="Data Science With Python" width="240" height="180" border="10" /></a>
 
+### Free Books
+
+#### Statistics
+&nbsp;&nbsp;&nbsp;&nbsp;[Introduction to Probability](http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/amsbook.mac.pdf) Introductory textbook that teaches probability and statistics.
+
+&nbsp;&nbsp;&nbsp;&nbsp;O'Reilly Bayesian Statistics Made Simple (https://greenteapress.com/wp/think-bayes/) - Be sure to look for the specific link to Python 3 sample code (the first github link is for legacy Python)
+
+
