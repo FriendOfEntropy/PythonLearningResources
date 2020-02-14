@@ -35,7 +35,7 @@ alt="Getting Started With Python In Visual Studio Code" width="240" height="180"
 
 &nbsp;&nbsp;&nbsp;&nbsp;[O'Reilly Bayesian Statistics Made Simple](https://greenteapress.com/wp/think-bayes/) - Be sure to look for the specific link to Python 3 sample code (the first github link is for legacy Python)
 
-[Data Mining and Analysis - Fundamental Concepts and Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookDownload)
+&nbsp;&nbsp;&nbsp;&nbsp;[Data Mining and Analysis - Fundamental Concepts and Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookDownload)
 
 
 
